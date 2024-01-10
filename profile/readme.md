@@ -13,4 +13,4 @@ The drawing canvas was made from scratch with using JavaScript and HTML canvas.
 
 ---
 
-*Created by [@ChakornK](github.com/ChakornK), [@Matthew030701](github.com/Matthew030701), and Daniel D.*
+*Created by [@ChakornK](github.com/ChakornK), [@Matthew030701](github.com/Matthew030701), and [@danburgerisaburger](github.com/danburgerisaburger)*
