@@ -3,13 +3,13 @@
   <br>
   Drawdle
 </h1>
-<p align="center"><i>Learn to draw by completing scribbles</i></p>
+<p align="center"><i>Learn to draw</i></p>
 
 ## 📚 Repositories
 
 ### [Drawdle](github.com/drawdle/drawdle)
 The Drawdle website and webapp. Built with Next.js.  
-The drawing canvas was made from scratch with using JavaScript and HTML canvas. 
+The drawing canvas was made with PIXI.js
 
 ---
 
